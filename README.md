@@ -208,17 +208,9 @@ public class VersionService {
 3. Push to branch (`git push origin feature/amazing-feature`)
 4. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see LICENSE file for details.
-
 ## 👤 Author
 
 Pallavi Nemade - [GitHub](https://github.com/pallavinemade)
-
-## 📞 Support
-
-For issues, questions, or suggestions, please open an [issue](https://github.com/pallavinemade/springboot-starter-template/issues).
 
 ## 🔜 Future Enhancements
 
